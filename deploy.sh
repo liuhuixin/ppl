@@ -1,14 +1,22 @@
 #!/bin/sh
 
-echo "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo "begin build blog"
+hugo
+git add .
+git commit -m "Update Hugo Blog"
+git push origin master
 
 # Go To Public folder
 cd public
+
+git init
+git remote add origin https://github.com/liuhuixin/ppl-s-Blog.git
+git pull
 # Add changes to git.
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="Update Public Static Page `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
