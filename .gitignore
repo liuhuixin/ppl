@@ -1,0 +1,5 @@
+.DS_Store
+
+public
+themes/*
+!themes/.gitkeep
