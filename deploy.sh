@@ -24,7 +24,7 @@ git pull master
 git add .
 git commit -m "$msg"
 # Push source and build repos.
-git push origin -f
+git push origin master -f --allow-unrelated-histories
 
 # Come Back up to the Project Root
 cd ..
