@@ -8,7 +8,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-
+#git clone https://git.oschina.net/gaofeifps/body.git --recursive
 hugo
 git add .
 git commit -m "$msg"
