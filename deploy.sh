@@ -19,12 +19,12 @@ cd public
 
 git init
 git remote add origin https://github.com/liuhuixin/ppl-s-Blog.git
-git pull
+git pull master
 # Add changes to git.
 git add .
 git commit -m "$msg"
 # Push source and build repos.
-git push origin master
+git push origin -f
 
 # Come Back up to the Project Root
 cd ..
