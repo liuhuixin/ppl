@@ -1,14 +1,14 @@
-baseURL = "https://g1eny0ung.site"
+baseURL = "https://liuhuixin.com"
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
-title = "g1eny0ung 的博客"
+title = "PPL 的博客"
 theme = "dream"
 
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。<br /><br />背景使用了 <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> 上 <a href="https://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> 拍摄的<a href="https://www.pexels.com/zh-cn/photo/1454794/" target="_blank">图片</a>。'
 
 googleAnalytics = "UA-98295641-1"
 
-disqusShortname = "g1eny0ung"
+disqusShortname = "PPL"
 
 enableRobotsTXT = true
 
@@ -38,10 +38,10 @@ hasCJKLanguage = true
 
   images = ["me/background.jpg"]
 
-  author = "g1eny0ung"
-  description = "g1eny0ung 的生活记录～"
+  author = "PPL"
+  description = "PPL 的生活记录～"
   avatar = "/me/yy.jpg"
-  headerTitle = "g1eny0ung 的博客"
+  headerTitle = "PPL 的博客"
   motto = "与其感慨路难行，不如马上出发。"
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
@@ -51,21 +51,21 @@ hasCJKLanguage = true
 
   rss = true
 
-  utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+  utterancesRepo = "PPL/PPL.github.io"
 
   # valine = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
   email = "g1enyy0ung@gmail.com"
-  # twitter = "g1eny0ung"
-  # facebook = "g1eny0ung"
-  # instagram = "g1eny0ung"
+  # twitter = "PPL"
+  # facebook = "PPL"
+  # instagram = "PPL"
   # mastodon = ""
-  # linkedin = "g1eny0ung"
-  # github = "g1eny0ung"
-  # stackoverflow = "5676489/g1eny0ung"
-  # codepen = "g1eny0ung"
+  # linkedin = "PPL"
+  # github = "PPL"
+  # stackoverflow = "5676489/PPL"
+  # codepen = "PPL"
 
   siteStartYear = 2016
 
