@@ -4,31 +4,30 @@ date: 2019-11-11T01:30:25+08:00
 lastmod: 2020-02-02T17:37:24+08:00
 ---
 
-g1eny0ung 的 ❤️ 博客
+PPL 的 ❤️ 博客
 
 记录一些 🌈 生活上，技术上的事
 
-~~一名大四学生~~
+一名从事Unity3D 的游戏开发程序员
 
-~~马上~~毕业于 🏫 大连东软信息学院
+已经浑浑噩噩度过了五年 🏫 河北经贸大学
 
-职业是前端工程师
+专门用Uunity3D开发有趣的游戏
 
-业余时间会做开源和 Apple App (OSX & iOS)
+业余时间喜欢运动和 铜鼓一些其他计算机软件的东西~
 
 主要的技术栈是：
 
-- JavaScript & TypeScript
-- React.js
-- Electron
-- Rust
+- Unity3D & C#
+- Lua
+- Java
+- JavaScript
 
 写着玩：
 
-- Java & Clojure & CLJS
-- OCaml & Reason & ReScript
-- Dart & Swift
+- 七大罪 & 代号远征 & 热血传奇
+- 驯龙大师 & 兔斯基 & 劲舞团
 
-目前在 [PingCAP](https://pingcap.com) 工作
+目前在 [Shengqu](https://www.sdo.com) 工作
 
--- 2021 年 01 月 30 日更新
+-- 2021 年 09 月 28 日更新
