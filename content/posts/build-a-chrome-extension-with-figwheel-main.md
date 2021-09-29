@@ -2,7 +2,7 @@
 title: Build a Chrome Extension with Figwheel Main
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
-author: g1eny0ung
+author: ppl
 avatar: /me/yy.jpg
 cover: /img/build-a-chrome-extension-with-figwheel-main.png
 images:
@@ -22,7 +22,7 @@ Bring a smooth experience to the development of Chrome Extension.
 ## Before starting
 
 Several years ago, I developed a chrome extension with ClojureScript,
-which named [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph).
+which named [GitHub Colorful Contributions](https://github.com/ppl/github-colorful-contributions-graph).
 
 That was the first time I have used [lein-figwheel](https://github.com/bhauman/lein-figwheel), a tool that can give you an extremely smooth live hot reloading in development.
 
@@ -33,7 +33,7 @@ Below is the screenshot from lein-figwheel README, It can reflect the **great in
 ![Figwheel heads up example](https://s3.amazonaws.com/bhauman-blog-images/figwheel_image.png)
 
 Back to the topic, in this post, we are going to use [Figwheel Main](https://figwheel.org/), a brand new upgraded version of lein-figwheel, to build a chrome extension.
-I have used it in [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph) to replace lein-figwheel.
+I have used it in [GitHub Colorful Contributions](https://github.com/ppl/github-colorful-contributions-graph) to replace lein-figwheel.
 There will be some differences from regular web development that require our special attention. But don't worry, I will point out them later.
 
 Let's start.
@@ -164,7 +164,7 @@ to build the production code.
 
 These are all steps to build a chrome extension with Figwheel Main.
 
-If you are looking for a real-world example as a reference, the [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph) is what you want.
+If you are looking for a real-world example as a reference, the [GitHub Colorful Contributions](https://github.com/ppl/github-colorful-contributions-graph) is what you want.
 
 Thanks for reading. Happy coding with Figwheel Main!
 

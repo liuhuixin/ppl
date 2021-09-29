@@ -10,7 +10,7 @@ If you like my open source projects or they can help you. You can [buy me a coff
 
 > PayPal
 
-[https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
+[https://paypal.me/liuhuixin](https://paypal.me/liuhuixin)
 
 > Patreon
 

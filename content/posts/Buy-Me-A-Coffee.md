@@ -2,7 +2,7 @@
 title: Buy Me A Coffee
 date: 2019-06-03T14:21:26+08:00
 lastmod: 2019-06-03T14:21:26+08:00
-author: g1eny0ung
+author: ppl
 avatar: /me/yy.jpg
 cover: /img/Buy-Me-A-Coffee.jpg
 images:
@@ -24,7 +24,7 @@ If you like my open source projects or they can help you. You can buy me a coffe
 
 ### PayPal
 
-[https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
+[https://paypal.me/ppl](https://paypal.me/ppl)
 
 ### Patreon
 
