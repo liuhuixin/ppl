@@ -26,7 +26,8 @@ git commit -m "$msg"
 
 git pull origin main --rebase --allow-unrelated-histories
 # Push source and build repos.
-git push origin main -f 
+git push --set-upstream --progress "origin" HEAD:main
 
 # Come Back up to the Project Root
 cd ..
+git submodule update --init --recursive
