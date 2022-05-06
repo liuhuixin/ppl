@@ -30,4 +30,4 @@ git push --set-upstream --progress "origin" HEAD:main
 
 # Come Back up to the Project Root
 cd ..
-git submodule update --init --recursive
+# app.netlify.com 支持自动化部署 不用单独上传public
