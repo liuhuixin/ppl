@@ -24,7 +24,7 @@ git remote add origin https://github.com/liuhuixin/liuhuixin.github.io.git
 git add .
 git commit -m "$msg"
 
-git pull origin amin --rebase --allow-unrelated-histories
+git pull origin main --rebase --allow-unrelated-histories
 # Push source and build repos.
 git push origin main -f 
 
