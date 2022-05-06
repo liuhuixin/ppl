@@ -12,7 +12,7 @@ fi
 hugo
 git add .
 git commit -m "$msg"
-git push origin main
+git push origin master
 
 # Go To Public folder
 cd public
