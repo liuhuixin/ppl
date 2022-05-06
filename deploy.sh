@@ -12,19 +12,19 @@ fi
 hugo
 git add .
 git commit -m "$msg"
-git push origin master
+git push origin main
 
 # Go To Public folder
 cd public
 
 git init
 git remote add origin https://github.com/liuhuixin/liuhuixin.github.io.git
-git pull origin master --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
 # Add changes to git.
 git add .
 git commit -m "$msg"
 # Push source and build repos.
-git push origin master -f 
+git push origin main -f 
 
 # Come Back up to the Project Root
 cd ..
