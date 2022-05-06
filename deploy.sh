@@ -23,6 +23,8 @@ git pull origin main --allow-unrelated-histories
 # Add changes to git.
 git add .
 git commit -m "$msg"
+
+git pull --rebase origin main
 # Push source and build repos.
 git push origin main -f 
 
