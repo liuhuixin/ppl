@@ -18,7 +18,7 @@ git push origin master
 cd public
 
 git init
-git remote add origin https://github.com/liuhuixin/ppl-s-Blog.git
+git remote add origin https://github.com/liuhuixin/liuhuixin.github.io.git
 git pull origin master --allow-unrelated-histories
 # Add changes to git.
 git add .
